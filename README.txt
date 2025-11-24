@@ -1,4 +1,4 @@
-Lab 6 - Cucumber BDD & Selenium WebDriver
+Lab #6 - Cucumber BDD & Selenium WebDriver
 ========================================
 
 Project structure:
@@ -8,7 +8,7 @@ Project structure:
 - src/test/java/lab6/locators  -> Generic relative locators for Women Clothing site
 - src/test/java/lab6/steps     -> Step definitions grouped by functionality
 - src/test/java/lab6/runners   -> RunCucumberTest JUnit runner
-- src/test/resources/features  -> 6 feature files (SIS-T4, T6, T5, T3, T2, T1)
+- src/test/resources/features  -> 4 feature files (SIS-T4, T6, T5, T2)
 
 How to run:
 1. Open this folder as a Maven project in IntelliJ IDEA.
@@ -18,4 +18,4 @@ How to run:
 
 Execution order:
 The feature files are prefixed with numbers so execution starts from:
-T4, T6, T5, T3, T2, T1.
+T4, T6, T5, T2.
